@@ -1,0 +1,16 @@
+C:\Users\egori\Source\Repos\PR4\PR4\bin\Debug\PR4.exe.config
+C:\Users\egori\Source\Repos\PR4\PR4\bin\Debug\PR4.exe
+C:\Users\egori\Source\Repos\PR4\PR4\bin\Debug\PR4.pdb
+C:\Users\egori\Source\Repos\PR4\PR4\obj\Debug\PR4.csproj.AssemblyReference.cache
+C:\Users\egori\Source\Repos\PR4\PR4\obj\Debug\PR4.Form1.resources
+C:\Users\egori\Source\Repos\PR4\PR4\obj\Debug\PR4.Form2.resources
+C:\Users\egori\Source\Repos\PR4\PR4\obj\Debug\PR4.Properties.Resources.resources
+C:\Users\egori\Source\Repos\PR4\PR4\obj\Debug\PR4.csproj.GenerateResource.cache
+C:\Users\egori\Source\Repos\PR4\PR4\obj\Debug\PR4.csproj.CoreCompileInputs.cache
+C:\Users\egori\Source\Repos\PR4\PR4\obj\Debug\PR4.exe
+C:\Users\egori\Source\Repos\PR4\PR4\obj\Debug\PR4.pdb
+C:\Users\egori\Source\Repos\PR4\PR4\bin\Debug\Database.mdf
+C:\Users\egori\Source\Repos\PR4\PR4\bin\Debug\Database_log.ldf
+C:\Users\egori\Source\Repos\PR4\PR4\obj\Debug\PR4.Form3.resources
+C:\Users\egori\Source\Repos\PR4\PR4\obj\Debug\PR4.Form4.resources
+C:\Users\egori\Source\Repos\PR4\PR4\obj\Debug\PR4.Form5.resources
